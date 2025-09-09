@@ -1,6 +1,6 @@
 <div align="center">
   <img height="256" src="https://i.imgur.com/Xfs4Tcz.png" />
-  <h3>Selennoid's Corner</h3>
+  <h3>⋆｡ﾟ☁︎｡⋆ Selennoid's Corner ⋆｡ ﾟ☾ ﾟ｡⋆</h3>
   <h6>Drop a follow or give a star if you like the content ;3</h6>
   <a href="https://discord.com/users/1352461461707952240" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo"/>
