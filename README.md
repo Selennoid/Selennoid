@@ -23,7 +23,7 @@
 - HTML5 & CSS3;
 - Javascript & JQuery;
 - Lua;
-- 
+
 <h1></h1>
 <div align="center">
   <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=g4uf0ob2kdhhy4mbv2ovp82j1">
