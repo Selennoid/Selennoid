@@ -15,7 +15,7 @@
 ##
 
 - Microsoft SQL Server (Database & Stored Procedure design);
-- C++ (Visual C++ 14+);
+- C++ 14+;
 - C# 6+;
 - PHP 7+;
 - Python 3+;
