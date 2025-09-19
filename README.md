@@ -4,7 +4,8 @@
   <h6>Drop a follow or give a star if you like the content ;3</h6>
   <a href="https://discord.com/users/1352461461707952240" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo"/></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Selennoid.Selennoid&right_color=hotpink"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Selennoid.Selennoid&right_color=hotpink"/><br/>
+  <a href='https://ko-fi.com/Y8Y31LG9HA' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 <h1></h1>
 <div align="center">
